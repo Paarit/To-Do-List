@@ -5,8 +5,6 @@
 // })
 
 
-// Step 1 : Selecting the elements first
-
 
 // Identifies DOM elements
 //var listItems = document.getElementsByClassName("list");
